@@ -105,3 +105,8 @@ $ python NetflixBot.py
 Right now the NetflixRouletteAPI only supports the US, and since I use this API, I can currently only support US accuracy. There are updates in the works to support this so stay tuned! :)
 
 Alan Wright
+
+# Heroku🎃
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XFlickz/Netflixbot)
+
